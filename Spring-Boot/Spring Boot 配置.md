@@ -73,7 +73,7 @@ public class HelloWorld {
 >
 > @RestController：这个注释告诉Spring这个代码描述了一个端点，可以在web上使用
 >
-> @GetMapping(“/hello”)：告诉Spring使用hello()方法来响应发送到http://localhost:8080/hello地址的请求
+> @GetMapping(“/hello”)：告诉Spring使用hello()方法来响应发送到 http://localhost:8080/hello 地址的请求
 >
 > @RequestParam：这个注释告诉Spring在请求中使用的名称值，如果不存在，默认使用“World”；也就是说如果你将请求中的name的值设置为“Jack”，则响应结果将是“Hello Jack!”
 
