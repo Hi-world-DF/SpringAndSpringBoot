@@ -14,9 +14,9 @@
 
 
 # Retis学习笔记
-* [1.Redis 简介]()
-* [2.Redis 下载安装]()
-* [3.Redis 配置]()
-* [4.Redis 数据类型]()
-* [5.Redis 命令]()
-* [6.Redis 高级*****]()
+* [1.Redis 简介](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Redis%E5%AD%A6%E4%B9%A0.md#1redis-%E7%AE%80%E4%BB%8B)
+* [2.Redis 下载安装](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Redis%E5%AD%A6%E4%B9%A0.md#2redis-%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85)
+* [3.Redis 配置](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Redis%E5%AD%A6%E4%B9%A0.md#3redis-%E9%85%8D%E7%BD%AE)
+* [4.Redis 数据类型](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Redis%E5%AD%A6%E4%B9%A0.md#4redis-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
+* [5.Redis 命令](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Redis%E5%AD%A6%E4%B9%A0.md#5redis-%E5%91%BD%E4%BB%A4)
+* [6.Redis 高级*](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Redis%E5%AD%A6%E4%B9%A0.md#6redis-%E9%AB%98%E7%BA%A7)
