@@ -2,7 +2,7 @@
 
 项目目录：
 
-![image-20201217153341524](/Users/test/Library/Application Support/typora-user-images/image-20201217153341524.png)
+![image-20201217153341524](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Spring-Bootimgs/img/%E7%9B%AE%E5%BD%95.png)
 
 Pom.xml
 
