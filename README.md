@@ -23,4 +23,4 @@
 * [page6：Redis 高级*](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Redis%E5%AD%A6%E4%B9%A0.md#6redis-%E9%AB%98%E7%BA%A7)
 
 # 开发注意&小技巧
-* [page1：小技巧]()
+* [page1：小技巧](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/%E5%BC%80%E5%8F%91%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
