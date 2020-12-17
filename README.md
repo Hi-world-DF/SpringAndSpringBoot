@@ -21,3 +21,6 @@
 * [page4：Redis 数据类型](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Redis%E5%AD%A6%E4%B9%A0.md#4redis-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
 * [page5：Redis 命令](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Redis%E5%AD%A6%E4%B9%A0.md#5redis-%E5%91%BD%E4%BB%A4)
 * [page6：Redis 高级*](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Redis%E5%AD%A6%E4%B9%A0.md#6redis-%E9%AB%98%E7%BA%A7)
+
+# 开发注意&小技巧
+* [page1：小技巧]()
