@@ -30,8 +30,10 @@
 * [page1：开发小技巧](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/%E5%BC%80%E5%8F%91%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
 
 # 练习
+### Java8
+* [page1：Stream.练习1-按字母频率和字典序输出字母]()
 ### Redis
-* [page1：Redisson.练习1]()
-* [page1：Redisson.练习2]()
+* [page1：Redisson.练习1-生成验证码]()
+* [page1：Redisson.练习2-分布式锁，防止多人用同一邮箱注册]()
 ### 参数校验Validation
 * [page1：Validation.练习1]()
