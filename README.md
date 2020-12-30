@@ -24,7 +24,7 @@
 
 # Git学习笔记
 * [page1：git常见操作](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Git%E5%B8%B8%E8%A7%81%E6%93%8D%E4%BD%9C.md)
-* [page2：git命令]()
+* [page2：git命令](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 
 # 开发注意&小技巧
 * [page1：小技巧](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/%E5%BC%80%E5%8F%91%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
