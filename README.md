@@ -31,9 +31,9 @@
 
 # 练习
 ### Java8
-* [page1：Stream.练习1-按字母频率和字典序输出字母]()
+* [page1：Stream.练习1-按字母频率和字典序输出字母](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Stearm%E7%BB%83%E4%B9%A0.md)
 ### Redis
-* [page1：Redisson.练习1-生成验证码]()
-* [page1：Redisson.练习2-分布式锁，防止多人用同一邮箱注册]()
+* [page1：Redisson.练习1-生成验证码](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Redis%E7%BB%83%E4%B9%A0%EF%BC%881%EF%BC%89%EF%BC%9A%E7%94%9F%E6%88%90%E9%AA%8C%E8%AF%81%E7%A0%81.md)
+* [page1：Redisson.练习2-分布式锁，防止多人用同一邮箱注册](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/Redis%E7%BB%83%E4%B9%A0%EF%BC%882%EF%BC%89%EF%BC%9A%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%EF%BC%8C%E9%98%B2%E6%AD%A2%E5%A4%9A%E4%BA%BA%E7%94%A8%E5%90%8C%E4%B8%80%E9%82%AE%E7%AE%B1%E6%B3%A8%E5%86%8C.md)
 ### 参数校验Validation
-* [page1：Validation.练习1]()
+* [page1：Validation.练习1](https://github.com/Hi-world-DF/SpringAndSpringBoot/blob/main/spring%E7%9A%84javax.validation%20%E6%B3%A8%E8%A7%A3%E5%BC%8F%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)
